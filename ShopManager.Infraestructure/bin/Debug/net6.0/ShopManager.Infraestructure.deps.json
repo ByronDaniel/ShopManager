@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ShopManager.Infraestructure/1.0.0": {
+        "dependencies": {
+          "ShopManager.Repository": "1.0.0"
+        },
+        "runtime": {
+          "ShopManager.Infraestructure.dll": {}
+        }
+      },
+      "ShopManager.Domain/1.0.0": {
+        "dependencies": {
+          "ShopManager.Entity": "1.0.0"
+        },
+        "runtime": {
+          "ShopManager.Domain.dll": {}
+        }
+      },
+      "ShopManager.Entity/1.0.0": {
+        "runtime": {
+          "ShopManager.Entity.dll": {}
+        }
+      },
+      "ShopManager.Repository/1.0.0": {
+        "dependencies": {
+          "ShopManager.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ShopManager.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShopManager.Infraestructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShopManager.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShopManager.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShopManager.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

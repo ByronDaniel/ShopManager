@@ -1,0 +1,15 @@
+C:\Users\tucob\OneDrive\Documentos\BP\RepasoSeniorityQ3\ShopManager.Api\ShopManager.Domain\bin\Debug\net6.0\ShopManager.Domain.deps.json
+C:\Users\tucob\OneDrive\Documentos\BP\RepasoSeniorityQ3\ShopManager.Api\ShopManager.Domain\bin\Debug\net6.0\ShopManager.Domain.dll
+C:\Users\tucob\OneDrive\Documentos\BP\RepasoSeniorityQ3\ShopManager.Api\ShopManager.Domain\bin\Debug\net6.0\ShopManager.Domain.pdb
+C:\Users\tucob\OneDrive\Documentos\BP\RepasoSeniorityQ3\ShopManager.Api\ShopManager.Domain\bin\Debug\net6.0\ShopManager.Entity.dll
+C:\Users\tucob\OneDrive\Documentos\BP\RepasoSeniorityQ3\ShopManager.Api\ShopManager.Domain\bin\Debug\net6.0\ShopManager.Entity.pdb
+C:\Users\tucob\OneDrive\Documentos\BP\RepasoSeniorityQ3\ShopManager.Api\ShopManager.Domain\obj\Debug\net6.0\ShopManager.Domain.csproj.AssemblyReference.cache
+C:\Users\tucob\OneDrive\Documentos\BP\RepasoSeniorityQ3\ShopManager.Api\ShopManager.Domain\obj\Debug\net6.0\ShopManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tucob\OneDrive\Documentos\BP\RepasoSeniorityQ3\ShopManager.Api\ShopManager.Domain\obj\Debug\net6.0\ShopManager.Domain.AssemblyInfoInputs.cache
+C:\Users\tucob\OneDrive\Documentos\BP\RepasoSeniorityQ3\ShopManager.Api\ShopManager.Domain\obj\Debug\net6.0\ShopManager.Domain.AssemblyInfo.cs
+C:\Users\tucob\OneDrive\Documentos\BP\RepasoSeniorityQ3\ShopManager.Api\ShopManager.Domain\obj\Debug\net6.0\ShopManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tucob\OneDrive\Documentos\BP\RepasoSeniorityQ3\ShopManager.Api\ShopManager.Domain\obj\Debug\net6.0\ShopManager.Domain.csproj.CopyComplete
+C:\Users\tucob\OneDrive\Documentos\BP\RepasoSeniorityQ3\ShopManager.Api\ShopManager.Domain\obj\Debug\net6.0\ShopManager.Domain.dll
+C:\Users\tucob\OneDrive\Documentos\BP\RepasoSeniorityQ3\ShopManager.Api\ShopManager.Domain\obj\Debug\net6.0\refint\ShopManager.Domain.dll
+C:\Users\tucob\OneDrive\Documentos\BP\RepasoSeniorityQ3\ShopManager.Api\ShopManager.Domain\obj\Debug\net6.0\ShopManager.Domain.pdb
+C:\Users\tucob\OneDrive\Documentos\BP\RepasoSeniorityQ3\ShopManager.Api\ShopManager.Domain\obj\Debug\net6.0\ref\ShopManager.Domain.dll

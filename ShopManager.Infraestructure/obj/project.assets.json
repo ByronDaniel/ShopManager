@@ -1,0 +1,128 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ShopManager.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ShopManager.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ShopManager.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopManager.Domain.dll": {}
+        }
+      },
+      "ShopManager.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ShopManager.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopManager.Entity.dll": {}
+        }
+      },
+      "ShopManager.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ShopManager.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ShopManager.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopManager.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShopManager.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ShopManager.Domain/ShopManager.Domain.csproj",
+      "msbuildProject": "../ShopManager.Domain/ShopManager.Domain.csproj"
+    },
+    "ShopManager.Entity/1.0.0": {
+      "type": "project",
+      "path": "../ShopManager.Entity/ShopManager.Entity.csproj",
+      "msbuildProject": "../ShopManager.Entity/ShopManager.Entity.csproj"
+    },
+    "ShopManager.Repository/1.0.0": {
+      "type": "project",
+      "path": "../ShopManager.Repository/ShopManager.Repository.csproj",
+      "msbuildProject": "../ShopManager.Repository/ShopManager.Repository.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ShopManager.Repository >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\tucob\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\tucob\\OneDrive\\Documentos\\BP\\RepasoSeniorityQ3\\ShopManager.Api\\ShopManager.Infraestructure\\ShopManager.Infraestructure.csproj",
+      "projectName": "ShopManager.Infraestructure",
+      "projectPath": "C:\\Users\\tucob\\OneDrive\\Documentos\\BP\\RepasoSeniorityQ3\\ShopManager.Api\\ShopManager.Infraestructure\\ShopManager.Infraestructure.csproj",
+      "packagesPath": "C:\\Users\\tucob\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tucob\\OneDrive\\Documentos\\BP\\RepasoSeniorityQ3\\ShopManager.Api\\ShopManager.Infraestructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\tucob\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/BancoPichinchaEC/_packaging/BancoPichinchaEC%40Local/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\tucob\\OneDrive\\Documentos\\BP\\RepasoSeniorityQ3\\ShopManager.Api\\ShopManager.Repository\\ShopManager.Repository.csproj": {
+              "projectPath": "C:\\Users\\tucob\\OneDrive\\Documentos\\BP\\RepasoSeniorityQ3\\ShopManager.Api\\ShopManager.Repository\\ShopManager.Repository.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
